@@ -1,0 +1,2 @@
+
+-   Provide a response to the statement, "leaders are born not made", using leadership theory introduced in this week's lecturecasts and your wider relevant academic reading, and a real-world example of either a famous leader or your own practice.

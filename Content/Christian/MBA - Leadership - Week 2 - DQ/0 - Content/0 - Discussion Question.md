@@ -8,16 +8,15 @@
 
 ```latex
 \epigraphbox{%
-Do you think that trading companies like Japan's sogo
-sosha will ever become common in the E.U. or the U.S.A.?
-Why or why not?
+it is essential for an organisation to have a charismatic CEO (or organisation head)
 \lipsum[2]
 \bigskip
 \ni Discuss.
 }{
-[[@Simley-2006aa]](t)
+Karl Marx, quoted in (10--11)[[@Grinder-2001kl]](t)
 }
 ```
 
 # * Discussion Question Answer
+`\lipsum[10-12]`
 
